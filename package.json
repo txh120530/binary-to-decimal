@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://txh120530.github.io/binary-to-decimal",
-=======
-  "homepage": "http://txh120530.github.io/binary-to-decimal",
->>>>>>> parent of c71dd21 (Updates)
   "name": "binary-to-decimal",
   "version": "0.1.0",
   "private": true,
@@ -19,11 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-<<<<<<< HEAD
-   "deploy": "gh-pages -b build",
-=======
-   "deploy": "gh-pages -b master -d build",
->>>>>>> parent of c71dd21 (Updates)
+    "deploy": "gh-pages -b",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test"
