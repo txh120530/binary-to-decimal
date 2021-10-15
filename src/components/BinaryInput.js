@@ -28,7 +28,6 @@ function BinaryInput(props) {
       	id="input__binary" 
       	className="border"
       	type="text"
-      	maxLength="8"
       />
     </div>
   );
