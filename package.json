@@ -1,5 +1,5 @@
 {
-  "homepage": "http://txh120530.github.io/binary-to-decimal",
+  "homepage": "https://txh120530.github.io/binary-to-decimal",
   "name": "binary-to-decimal",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-   "deploy": "gh-pages -b master -d build",
+   "deploy": "gh-pages -b build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test"
