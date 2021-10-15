@@ -1,6 +1,6 @@
 # Binary to Decimal
 
-Based of [this](https://github.com/florinpop17/app-ideas)
+Based off of [this](https://github.com/florinpop17/app-ideas)
 
 ## User Stories
 
