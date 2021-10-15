@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/binary-to-decimal/static/css/main.f36d0266.chunk.css",
-    "main.js": "/binary-to-decimal/static/js/main.8e7b74ce.chunk.js",
-    "main.js.map": "/binary-to-decimal/static/js/main.8e7b74ce.chunk.js.map",
+    "main.js": "/binary-to-decimal/static/js/main.199b17b1.chunk.js",
+    "main.js.map": "/binary-to-decimal/static/js/main.199b17b1.chunk.js.map",
     "runtime-main.js": "/binary-to-decimal/static/js/runtime-main.6ff67141.js",
     "runtime-main.js.map": "/binary-to-decimal/static/js/runtime-main.6ff67141.js.map",
     "static/js/2.c713c05c.chunk.js": "/binary-to-decimal/static/js/2.c713c05c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6ff67141.js",
     "static/js/2.c713c05c.chunk.js",
     "static/css/main.f36d0266.chunk.css",
-    "static/js/main.8e7b74ce.chunk.js"
+    "static/js/main.199b17b1.chunk.js"
   ]
 }
